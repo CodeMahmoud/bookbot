@@ -15,5 +15,6 @@ def main():
                  else:
                      hash[str[i]] = 1
             print(hash)
+        char_count(file_contents)
 main()
 
